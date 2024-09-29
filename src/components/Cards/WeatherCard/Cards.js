@@ -11,7 +11,6 @@ import {
 } from "@mui/material";
 
 const WeatherCard = ({ weather }) => {
-  console.log("🚀 ~ file: Cards.js:14 ~ WeatherCard ~ weather:", weather)
   return (
     <Card sx={{ maxWidth: 345, margin: "auto", mt: 5 }}>
       <CardMedia
