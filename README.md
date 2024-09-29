@@ -5,6 +5,7 @@ A React-based weather application that displays weather data for a given locatio
 ## Features
 
 - Fetches and displays weather data for the current location.
+- Fetches and displays weather data based on latitude and longitude value provided in input field.
 - Displays weather data in a card format.
 - Shows a loading skeleton while fetching data.
 - Horizontal scrolling for weather cards.
